@@ -3,15 +3,6 @@
 This project predicts whether a loan will be approved based on applicant details using various machine learning models. The dataset is available here:  
 https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
 
-## Folder Structure
-
-Loan-Default-Prediction/
-├── loan_model.py
-├── submission.csv
-├── train.csv
-├── test.csv
-├── requirements.txt
-└── .gitignore
 ## Dataset
 
 - `train.csv` — training data with `Loan_Status` labels  
