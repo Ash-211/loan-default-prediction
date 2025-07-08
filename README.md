@@ -6,13 +6,12 @@ https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-datase
 ## Folder Structure
 
 Loan-Default-Prediction/
-|--- loan_model.py
-|--- submission.csv
-|--- train.csv
-|--- test.csv
-|---requirements.txt
-└---.gitignore
-
+├── loan_model.py
+├── submission.csv
+├── train.csv
+├── test.csv
+├── requirements.txt
+└── .gitignore
 ## Dataset
 
 - `train.csv` — training data with `Loan_Status` labels  
